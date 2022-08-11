@@ -39,6 +39,9 @@ v2.20.006 :	Add NAND Bad Block Rule CMD.
 v2.30.002 :	Support N3290xG & N3290xH
 v2.30.003 :	Fix Booting fail issue without USER DEFINE SETTING
 
+[Note]
+2022/08/09      N3292/N9H26 : Update Turbowriter.ini for new embedded DDR2
+
 [N3291]
 2012/01/16-v06: FA95 Turbowriter firmware 1st version (FA95_musb.bin & FA95_musb_FullSpeed.bin)
 2012/01/20-v06: Support Hynix NAND H27UAG8T2B(H27UAG8T2BTR)

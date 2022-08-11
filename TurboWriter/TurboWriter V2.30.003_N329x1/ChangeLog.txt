@@ -91,6 +91,7 @@ v2.30.003 :	Fix Booting fail issue without USER DEFINE SETTING
 2019/04/22-v01: Modify NAND Bad Block check rule for UBIFS
 2019/10/15-v01: Fix unstable issue
 2020/12/17-v01: Support N3290xG & N3290xH
+2022/08/09-v01: Remove code for set bad block as good block if all data is 0xFF after block erase
 
 Notice: If you want to fix the USB transfer speed in FullSpeed mode, please rename the file 
 	FA93_musb_FullSpeed.bin to FA93_musb.bin and replace the origrinal one.
